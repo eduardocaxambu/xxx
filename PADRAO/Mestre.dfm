@@ -1,0 +1,19 @@
+object Mestre_FRM: TMestre_FRM
+  Left = 0
+  Top = 0
+  ClientHeight = 823
+  ClientWidth = 1326
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  KeyPreview = True
+  OldCreateOrder = False
+  Visible = True
+  WindowState = wsMaximized
+  OnKeyDown = FormKeyDown
+  PixelsPerInch = 96
+  TextHeight = 13
+end
